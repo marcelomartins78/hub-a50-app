@@ -71,6 +71,6 @@ class MainActivity : Activity() {
     }
 
     companion object {
-        const val ENDERECO = "https://marcelomartins78.github.io/Hub-A50/"
+        const val ENDERECO = "https://marcelomartins78.github.io/hub-a50/"
     }
 }
